@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Gideon
+- 👀 I’m interested in sharing ideas and solutions
+- 💞️ I’m looking to collaborate on Web development, Designs and Social Commerce
+- ⚡ Fun fact: Chat buddy
